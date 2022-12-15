@@ -1,16 +1,17 @@
-#include<stdio.h>
-#include"main.h"
+#include"main.h"                                                                                                                
 
-/**
- * main - Print integers if positive or negative
- * Return:Always Success
- */
-int main(void)
-{
-	int i;
+ /**                                                                             * main - Print integers if positive or negative                                 * Return:Always Success                                                                                                        
+ */                                                                                                                             
 
-	int = 0;
+int main(void)                                                                                                                  
 
-	positive_or_negative(i);
-	return (0);
-}
+{                                                                                                                               
+
+	        int i;                                                                                                                  
+
+		int = 0;                                                                                                                
+
+			                                                                        positive_or_negative(i);                                        
+				        return (0);                                                                                               
+
+}   
