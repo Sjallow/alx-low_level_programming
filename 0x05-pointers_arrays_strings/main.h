@@ -1,14 +1,11 @@
-#ifndef MAIN_H
+#ifdef MAIN_H
 #define MAIN_H
-/**
- * File: main.h
- * Author: Sering Jallow
- *  Description: Header file containing prototypes for all functions
- *   used in the 0x05-pointers_arrays_strings directory.
- */
-
-#include <stdlib.h>
-
+/*
+* file: Main.h
+* Description: Header file containing prototype
+*/
+#include <stdio.h>
+#include <unistd>
 int _putchar(char c);
 void reset_to_98(int *n);
 void swap_int(int *a, int *b);
@@ -23,4 +20,3 @@ char *_strcpy(char *dest, char *src);
 int _atoi(char *s);
 
 #endif
-
