@@ -1,8 +1,7 @@
-#include"main.h"
-#include<unistd.h>
+#include "main.h"
+#include <unistd.h>
 /**
  * _putchar - write character c to stdout
- *
  * Return:  0
  */
 int _putchar(char c)
