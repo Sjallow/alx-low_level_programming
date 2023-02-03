@@ -1,11 +1,11 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef HOLBERTON_H
+#define HOLBERTON_H
 
 /*
  * File: holberton.h
  * AUth: Sering Jallow
  * Desc: Header file containing prototypes for all functions
- * written in the 0x13-bit_manipulation directory.
+ *       written in the 0x13-bit_manipulation directory.
  */
 
 int _putchar(char c);
@@ -17,4 +17,4 @@ int clear_bit(unsigned long int *n, unsigned int index);
 unsigned int flip_bits(unsigned long int n, unsigned long int m);
 int get_endianness(void);
 
-#endif /* MAIN*/
+#endif /* HOLBERTON_H */
